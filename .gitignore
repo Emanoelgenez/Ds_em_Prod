@@ -129,8 +129,4 @@ dmypy.json
 .pyre/
 
 *.DATA
-
-.DATA
-
-
-
+*.csv
